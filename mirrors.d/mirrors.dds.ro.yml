@@ -1,0 +1,10 @@
+---
+name: mirrors.dds.ro
+address:
+  http: http://mirrors.dds.ro/almalinux/
+  https: https://mirrors.dds.ro/almalinux/
+update_frequency: 6h
+sponsor: DDS Hosting
+sponsor_url: https://dds.ro
+email: vali@dds.ro
+---
